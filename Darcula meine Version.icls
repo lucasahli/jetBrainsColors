@@ -1,10 +1,10 @@
 <scheme name="Darcula meine Version" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2017-10-08T12:32:53</property>
+    <property name="created">2018-05-14T11:24:55</property>
     <property name="ide">CLion</property>
-    <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-10-14T15:29:11</property>
-    <property name="originalScheme">_@user_Darcula</property>
+    <property name="ideVersion">2018.1.2.0.0</property>
+    <property name="modified">2018-05-14T11:25:20</property>
+    <property name="originalScheme">Darcula meine Version</property>
   </metaInfo>
   <attributes>
     <option name="DEFAULT_COMMA">
@@ -91,6 +91,13 @@
         <option name="BACKGROUND" value="a08c60" />
       </value>
     </option>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fe4f4c" />
+        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="OC.OVERLOADED_OPERATOR">
       <value>
         <option name="FOREGROUND" value="adfffd" />
@@ -114,7 +121,7 @@
     </option>
     <option name="OC.TYPEDEF">
       <value>
-        <option name="FOREGROUND" value="ff5651" />
+        <option name="FOREGROUND" value="319cfe" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -127,6 +134,11 @@
         <option name="FOREGROUND" value="d9ecff" />
         <option name="BACKGROUND" value="2b2b2b" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
@@ -145,7 +157,10 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fe4f4c" />
+        <option name="FOREGROUND" value="ff7351" />
+        <option name="EFFECT_COLOR" value="bc3f3c" />
+        <option name="ERROR_STRIPE_COLOR" value="bc751c" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
