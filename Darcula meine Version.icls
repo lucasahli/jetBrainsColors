@@ -1,10 +1,10 @@
-<scheme name="Darcula meine Version" version="142" parent_scheme="Darcula">
+<scheme name="Darcula meine Version copy" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2018-05-16T18:50:01</property>
-    <property name="ide">CLion</property>
-    <property name="ideVersion">2018.1.2.0.0</property>
-    <property name="modified">2018-05-16T18:50:29</property>
-    <property name="originalScheme">Darcula meine Version</property>
+    <property name="created">2018-05-16T18:58:08</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2018.1.3.0.0</property>
+    <property name="modified">2018-05-16T18:58:26</property>
+    <property name="originalScheme">Darcula meine Version copy</property>
   </metaInfo>
   <attributes>
     <option name="DEFAULT_COMMA">
@@ -150,7 +150,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="403c12" />
+        <option name="BACKGROUND" value="322e0d" />
         <option name="ERROR_STRIPE_COLOR" value="be9117" />
       </value>
     </option>
